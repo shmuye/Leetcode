@@ -26,6 +26,3 @@ def fourSum(nums,target):
                     right -= 1
         
     return result
-nums = [-2,-1,-1,1,1,2,2]
-target = 0
-print(fourSum(nums,target))
