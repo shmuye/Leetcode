@@ -7,5 +7,3 @@ def pivotIndex(nums):
             return i
     return -1
 
-arr = [2,1,-1]
-print(pivotIndex(arr))
